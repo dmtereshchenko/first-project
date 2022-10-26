@@ -1,5 +1,2 @@
-Public class Praktikum {
-
-public static void main {
-}
+public class Converter {
 }
